@@ -45,3 +45,14 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 ## Layout:
 
 ![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-11/image.png)
+
+## Resultado Final:
+
+O resultado final pode ser visto aqui: https://imdb-challenge.netlify.com/
+* 🌙 Adicionei a opção do usuário selecionar o modo, dark ou light.
+
+## Próximos Passos:
+
+* Deixar o layout responsivo.
+
+
