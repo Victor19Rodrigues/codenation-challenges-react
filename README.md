@@ -22,7 +22,7 @@
 
 <p align="center">
 
-  <a href="#about-challenge">
+  <a href="#about-challenges">
     <img src="https://img.shields.io/badge/About_Challenge-a5a5a5"/>
   </a>&nbsp;&nbsp;
   <a href="#techs">
