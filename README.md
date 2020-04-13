@@ -25,7 +25,7 @@
   <a href="#-about-challenge">
     <img src="https://img.shields.io/badge/About_Challenge-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="-techs">
+  <a href="#-techs">
     <img src="https://img.shields.io/badge/Techs-a5a5a5"/>
   </a>&nbsp;&nbsp;
   <a href="#author-victor-rodrigues">
